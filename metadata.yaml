@@ -1,0 +1,28 @@
+_repo: Abraham-LincolnThe-Practical-Mystic_45449
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45449-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Grierson, Francis
+    alias: Shepard, Benjamin Henry Jesse Francis
+    birthdate: 1848
+    deathdate: 1927
+    gutenberg_agent_id: '37831'
+    url: http://www.gutenberg.org/2009/agents/37831
+description: ''
+gutenberg_issued: '2014-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45449'
+  lccn: '18023248'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Psychology'
+title: 'Abraham Lincoln: The Practical Mystic'
+url: http://www.gutenberg.org/ebooks/45449
